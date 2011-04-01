@@ -1,7 +1,7 @@
 body 		{width:230px; font-family:Verdana;font-size:11px; margin:0px; padding:0px; color:black;}
 #content 		{margin:0px;padding:0px;}
-ul 			{margin:0px; padding:0px; list-style: none;}
-li 			{margin:0px; padding:4px 2px 0px 4px; height:20px; -webkit-border-radius:5px;}
-img 			{vertical-align:middle;}
+ul 		{margin:0px; padding:0px; list-style: none;}
+li 		{margin:0px; padding:4px 2px 0px 4px; height:20px; -webkit-border-radius:5px;}
+img 		{vertical-align:middle;}
 .titulo 		{margin:5px 0px 0px 6px; vertical-align:middle;}
-.selected 	{background-color:#FF9933;}
+.selected 	                {background-color:#FF9933;}
